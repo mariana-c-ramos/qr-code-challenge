@@ -47,7 +47,6 @@ body{
     width: 320px;
     border-radius: 20px;
     background-color: var(--clr-div);
-    margin: 152px 560px;
 }
 
 .qrcode__img img {
